@@ -1,7 +1,6 @@
-<h1 align="center">Hello :3 💜</h1>
+<p align=center>Currently studying Computer Games Development, working on expertise in computer graphics programming (OpenGL) for  games 💜🐈‍⬛ </p>
 
-Currently studying Computer Games Development, working on expertise in computer graphics programming (OpenGL).
 
-## Languages:
-- C++
-- C#
+<h2 align = center> Languages: </h2>
+<p align = center>1# - C++ </p>
+<p align = center>2# - C# </p>
