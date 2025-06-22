@@ -1,7 +1,7 @@
-<h1 align="center">🌈 Hello :3 💜</h1>
+<h1 align="center">Hello :3 💜</h1>
 
+Currently studying Computer Games Development, working on expertise in computer graphics programming (OpenGL).
 
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/123602100/222064086-aeb118e6-66d9-47fa-bf5c-dfaf2987a021.gif" width="500"/>
-</div>
+## Languages:
+- C++
+- C#
