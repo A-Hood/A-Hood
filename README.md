@@ -1,5 +1,5 @@
 ## Hello :3 🐈‍⬛
 
-#### Specific focus on graphics/game programming!
+#### Specific focus on graphics/game programming! </br>
 
-= 🐾 Working using c++, c#.
+- 🐾 Working using `c++`, `c#`.
